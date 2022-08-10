@@ -1,0 +1,408 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"input"
+			],
+			[
+				"light",
+				"lightcoral"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"ob",
+				"obj_T"
+			],
+			[
+				"Tr",
+				"Triangle"
+			],
+			[
+				"R",
+				"Rectangle"
+			],
+			[
+				"re",
+				"read_input"
+			],
+			[
+				"Re",
+				"RectangleArea"
+			],
+			[
+				"Rec",
+				"RectangleArea"
+			],
+			[
+				"sco",
+				"score1"
+			],
+			[
+				"set",
+				"set_standard"
+			],
+			[
+				"se",
+				"set_first_name"
+			],
+			[
+				"get_",
+				"get_standard"
+			],
+			[
+				"obj",
+				"obj_b"
+			],
+			[
+				"per",
+				"performOperationScientific"
+			],
+			[
+				"get",
+				"getDataScientific"
+			],
+			[
+				"SC",
+				"ScientificCalculator"
+			],
+			[
+				"A",
+				"AddWork"
+			],
+			[
+				"i",
+				"include"
+			],
+			[
+				"man",
+				"iomanip"
+			],
+			[
+				"n",
+				"namespace"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Toggle Comment"
+			],
+			[
+				"package",
+				"Install Package Control"
+			],
+			[
+				"Snippet:",
+				"Snippet: html"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"Snippet",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/shivam/web development course code/harry.html",
+		"/home/shivam/DSA_codes/binarysearch.cpp",
+		"/home/shivam/DSA_codes/bubblesort.cpp",
+		"/home/shivam/DSA_codes/insertionsort.cpp",
+		"/home/shivam/DSA_codes/subarray.cpp",
+		"/home/shivam/DSA_codes/selectionsort.cpp",
+		"/home/shivam/web development course code/script.js",
+		"/home/shivam/web development course code/code syntax.html",
+		"/home/shivam/.config/sublime-text/Packages/User/html.sublime-snippet",
+		"/home/shivam/.config/sublime-text/Packages/html.sublime-snippet",
+		"/home/shivam/.config/sublime-text/Packages/HTML.sublime-package",
+		"/home/shivam/c++ codes/switch case.cpp",
+		"/home/shivam/DSA_codes/loops.cpp",
+		"/home/shivam/DSA_codes/if else.cpp",
+		"/home/shivam/c++ codes/pattern2.cpp",
+		"/home/shivam/c++ codes/leapyear.cpp",
+		"/home/shivam/c++ codes/primeno.cpp",
+		"/home/shivam/DSA_codes/deque.cpp",
+		"/home/shivam/DSA_codes/recursion_questions.cpp",
+		"/home/shivam/DSA_codes/stack.cpp",
+		"/home/shivam/DSA_codes/queue.cpp",
+		"/home/shivam/DSA_codes/binary_tree.cpp",
+		"/home/shivam/DSA_codes/python.py",
+		"/home/shivam/DSA_codes/viva.java",
+		"/home/shivam/Downloads/Telegram Desktop/Book-Shop.cpp",
+		"/home/shivam/DSA_codes/prefix_evaluation.cpp",
+		"/home/shivam/DSA_codes/matrix.cpp",
+		"/home/shivam/DSA_codes/matrix_multiplication.cpp",
+		"/home/shivam/DSA_codes/matrix_search.cpp",
+		"/home/shivam/DSA_codes/merge_sort.cpp",
+		"/home/shivam/DSA_codes/quick_sort.cpp",
+		"/home/shivam/DSA_codes/backtracking.cpp",
+		"/home/shivam/DSA_codes/string_functions.cpp",
+		"/home/shivam/DSA_codes/linearsearch.cpp",
+		"/home/shivam/DSA_codes/array_dsa.cpp",
+		"/home/shivam/codes/prime_factors.cpp",
+		"/home/shivam/DSA_codes/bit_manu.cpp",
+		"/home/shivam/c++ codes/inheritance.cpp",
+		"/home/shivam/c++ codes/project1.cpp",
+		"/home/shivam/c++ codes/Final_project.cpp",
+		"/home/shivam/DSA_codes/sudoku.cpp",
+		"/home/shivam/c++ codes/Simple and Scientific Calculator.cpp",
+		"/home/shivam/c++ codes/template.cpp",
+		"/home/shivam/c++ codes/factorial.cpp",
+		"/home/shivam/c++ codes/question9.cpp",
+		"/home/shivam/c++ codes/git.cpp",
+		"/home/shivam/c++ codes/sum_array.cpp",
+		"/home/shivam/c++ codes/question5.cpp",
+		"/home/shivam/c++ codes/question3.cpp",
+		"/home/shivam/c++ codes/classQ.cpp",
+		"/home/shivam/c++ codes/armstrong_no.cpp",
+		"/home/shivam/c++ codes/manupulator.cpp",
+		"/home/shivam/c++ codes/1-100prime.cpp",
+		"/home/shivam/c++ codes/palindrome.cpp",
+		"/home/shivam/c++ codes/fibonacci.cpp",
+		"/home/shivam/c++ codes/prime_factors.cpp",
+		"/home/shivam/codes/max_array.cpp",
+		"/home/shivam/codes/pattern2.cpp",
+		"/home/shivam/codes/pattern1.cpp",
+		"/home/shivam/codes/hcf_lcm.cpp",
+		"/home/shivam/codes/armstrong_no.cpp",
+		"/home/shivam/codes/palindrome.cpp",
+		"/home/shivam/codes/reverse_no.cpp",
+		"/home/shivam/codes/sum_digits.cpp",
+		"/home/shivam/codes/1-100prime.cpp",
+		"/home/shivam/codes/primeno.cpp",
+		"/home/shivam/codes/leapyear.cpp",
+		"/home/shivam/codes/factorial.cpp",
+		"/home/shivam/codes/classes_objects.cpp",
+		"/home/shivam/codes/classQ.cpp",
+		"/home/shivam/codes/template.cpp",
+		"/home/shivam/codes/ptr_derived.cpp",
+		"/home/shivam/codes/harry_ptr.cpp",
+		"/home/shivam/codes/harry_exercise.cpp",
+		"/home/shivam/codes/constructor.cpp",
+		"/home/shivam/codes/class2.cpp",
+		"/home/shivam/codes/class1.cpp",
+		"/home/shivam/codes/array.cpp",
+		"/home/shivam/.config/sublime-text/Packages/User/include.sublime-snippet",
+		"/home/shivam/codes/inheritance.cpp",
+		"/home/shivam/codes/rectangleQ.cpp",
+		"/home/shivam/codes/fibonacci.cpp",
+		"/home/shivam/codes/class.cpp",
+		"/home/shivam/codes/hi.cpp",
+		"/home/shivam/codes/linked_list.cpp",
+		"/home/shivam/codes/topics.txt",
+		"/home/shivam/codes/function.cpp",
+		"/home/shivam/codes/structure.cpp",
+		"/home/shivam/codes/6table.cpp",
+		"/home/shivam/codes/project.cpp",
+		"/home/shivam/codes/loop.cpp",
+		"/home/shivam/codes/question6.cpp",
+		"/home/shivam/codes/question7.cpp",
+		"/home/shivam/codes/code_template.cpp",
+		"/home/shivam/codes/question4.cpp",
+		"/home/shivam/codes/question5.cpp",
+		"/home/shivam/codes/copy.cpp",
+		"/home/shivam/codes/question2.cpp",
+		"/home/shivam/codes/data_type.cpp",
+		"/home/shivam/codes/bekar.cpp",
+		"/home/shivam/codes/question3.cpp",
+		"/home/shivam/codes/basic.cpp",
+		"/home/shivam/codes/question1.cpp",
+		"/home/shivam/codes/question8.cpp",
+		"/home/shivam/codes/enum.cpp",
+		"/home/shivam/codes/swap.cpp",
+		"/home/shivam/codes/pointer.cpp",
+		"/home/shivam/codes/question9.cpp",
+		"/home/shivam/codes/manupulator.cpp",
+		"/home/shivam/codes/sum_array.cpp",
+		"/home/shivam/codes/rectangle.cpp",
+		"/home/shivam/codes/main.c",
+		"/media/shivam/New Volume/Semester 2/DSA/Code Blocks/_EA/main.c",
+		"/home/shivam/Downloads/layout.latte"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
